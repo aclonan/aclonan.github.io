@@ -11,6 +11,7 @@ Hi, my name is Alex! I am currently a PhD Student at the University of Connectic
 
 My Current Research
 ======
+## Low-dimensional interference of mid-level sound statistics predicts human speech recognition in natural environmental noise
 My current work is focused on the bottom-up acoustic cues that drive speech perception in natural enviornmental noise. Natural backgrounds can be quite diverse, with high degrees of spectrotemporal variability that arises from environmental acoustic generators. Whereas with speech, articulation imposes unique acoustic idiosyncrasies (i.e.: fundamental frequency, intonation) that influence our vocal quality, pronunciation, and phonetic implementation. What I am interested in, is how these acoustic cues are indicative of real-world human perception.
 
 Papers
