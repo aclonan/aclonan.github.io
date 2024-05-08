@@ -13,7 +13,7 @@ My Current Research
 ======
 My current work is focused on the bottom-up acoustic cues that drive speech perception in natural enviornmental noise. Natural backgrounds can be quite diverse, with high degrees of spectrotemporal variability that arises from environmental acoustic generators. Whereas with speech, articulation imposes unique acoustic idiosyncrasies (i.e.: fundamental frequency, intonation) that influence our vocal quality, pronunciation, and phonetic implementation. What I am interested in, is how these acoustic cues interfere with one another, and are indicative of real-world human perception.
 
-Papers
+Publications
 ======
 ### **Low-dimensional interference of mid-level sound statistics predicts human speech recognition in natural environmental noise**
 I am really excited to have my first publication in review, you can currently see it posted on [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.579526v1). Here we assess the influence of bottom-up acoustic features of the foreground and background by adversarially positioning them against one another. This feature representation is inspired by the computations in the auditory midbrain (IC). Our approach allows us to investigate perceptual transfer functions indicative of the cues we rely on for specific acoustic tasks. 
