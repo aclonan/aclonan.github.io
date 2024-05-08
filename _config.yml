@@ -12,7 +12,7 @@ title                    : "Alex Clonan"
 title_separator          : "-"
 name                     : &name "Alex Clonan"
 description              : &description
-url                      : https://aclonan.github.io # the base hostname & protocol for your site e.g. "https://alonan.github.io"
+url                      : "https://aclonan.github.io" # the base hostname & protocol for your site e.g. "https://alonan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aclonan/aclonan.github.io"
 
@@ -21,7 +21,7 @@ repository               : "aclonan/aclonan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Alex"
   pronouns         : # example: "he/him"  
   bio              : "neuro | machine | perception | acoustics"
