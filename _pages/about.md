@@ -9,8 +9,6 @@ redirect_from:
 
 Hi, my name is Alex! I am currently a PhD Student at the University of Connecticut College of Engineering working with [Monty Escabi](https://www.bme.uconn.edu/faculty-staff/core-faculty/escabi-monty/) and [Ian Stevenson](https://psychology.uconn.edu/person/ian-stevenson/) in the [Physiological Acoustics Lab](https://escabilab.uconn.edu/). I am apart of the [Biomedical Engineering Program](https://www.bme.uconn.edu/academics/graduate-program/about-the-graduate-program-in-biomedical-engineering/), focusing my coursework on Machine Learning, Digital Signal Processing and Human Psychoacoustics. Further, I am apart of the [Institute for Brain and Cognitive Sciences](https://ibacs.uconn.edu/) where I partake in STEM Education Outreach around Connecticut. Bleeding blue, I also graduated from the Univsersity of Connecticut in 2022, where I received my undergraduate degrees in Electrical Engineering and Molecular Cell Biology. 
 
-Reach me at @alexcarmenclo on X, or **alex**(dot)**clonan**(at)**uconn**(dot)**edu** via email. 
-
 My Current Research
 ======
 My current work is focused on the bottom-up acoustic cues that drive speech perception in natural enviornmental noise. Natural backgrounds can be quite diverse, with high degrees of spectrotemporal variability that arises from environmental acoustic generators. Whereas with speech, articulation imposes unique acoustic idiosyncrasies (i.e.: fundamental frequency, intonation) that influence our vocal quality, pronunciation, and phonetic implementation. What I am interested in, is how these acoustic cues interfere with one another, and are indicative of real-world human perception. See below more details about our paper on [BioRxiv!](https://www.biorxiv.org/content/10.1101/2024.02.13.579526v1)
