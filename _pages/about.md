@@ -27,7 +27,7 @@ In tandem with my research, I am very interested in STEM Education, and diversit
 
 Publications
 ======
-## **Low-dimensional interference of mid-level sound statistics predicts human speech recognition in natural environmental noise (in Review, 2024)**
+### **Low-dimensional interference of mid-level sound statistics predicts human speech recognition in natural environmental noise (in Review, 2024)**
 ### Alex C. Clonan, Xiu Zhai, Ian H. Stevenson, Monty A. Escabí
 I am really excited to have my first publication in review, you can currently see it posted on [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.579526v1). Here we assess the influence of bottom-up acoustic features of the foreground and background by adversarially positioning them against one another. This feature representation is inspired by the computations in the auditory midbrain (IC). Our approach allows us to investigate perceptual transfer functions indicative of the cues we rely on for specific acoustic tasks. 
 
