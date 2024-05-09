@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://aclonan.github.io/AlexClonan_CV.pdf" type="application/pdf" />
+<embed src="https://aclonan.github.io/AlexClonan_CV.pdf" type="application/pdf" width="100%" height="100%">
