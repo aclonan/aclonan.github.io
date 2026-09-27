@@ -23,14 +23,15 @@ Waveform 2
 
 <div>
 <audio controls>
-  <source src="files/Miso_Sounds/Radiolab_Numbers_F_4.wav" type="audio/wav">
+  <source src="/files/Miso_Sounds/Radiolab_Numbers_F_4.wav" type="audio/wav">
+  
   Your browser does not support the audio element.
 </audio>
 </div>
 
 <div>
 <audio controls>
-  <source src="files/Miso_Sounds/Radiolab_Numbers_M_3.wav" type="audio/wav">
+  <source src="/files/Miso_Sounds/Radiolab_Numbers_M_3.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -52,14 +53,14 @@ Waveform 4
 
 <div>
 <audio controls>
-  <source src="files/Miso_Sounds/ArcadeMix.wav" type="audio/wav">
+  <source src="/files/Miso_Sounds/ArcadeMix.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 </div>
 
 <div>
 <audio controls>
-  <source src="files/Miso_Sounds/AfricanMix.wav" type="audio/wav">
+  <source src="/files/Miso_Sounds/AfricanMix.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 </div>
@@ -80,14 +81,14 @@ Waveform 6
 
 <div>
 <audio controls>
-  <source src="files/Miso_Sounds/ArcadeTarget.wav" type="audio/wav">
+  <source src="/files/Miso_Sounds/ArcadeTarget.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 </div>
 
 <div>
 <audio controls>
-  <source src="files/Miso_Sounds/AfricanTarget.wav" type="audio/wav">
+  <source src="/files/Miso_Sounds/AfricanTarget.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 </div>
