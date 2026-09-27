@@ -11,7 +11,11 @@ Hi, my name is Alex! I am currently a PhD Student at the University of Connectic
 
 My Current Research
 ======
-My current work is focused on the bottom-up acoustic cues (spectrum, temporal modulation, spectral modulation) that drive speech perception in natural enviornmental noise. Natural backgrounds can be quite diverse, with high degrees of spectrotemporal variability that arises from environmental acoustic generators. Whereas with speech, articulation imposes unique acoustic idiosyncrasies (i.e.: fundamental frequency, intonation) that influence our vocal quality, pronunciation, and phonetic implementation. What I am interested in, is how these acoustic cues interfere with one another, and are indicative of real-world human perception. See below more details about our paper on [BioRxiv!](https://www.biorxiv.org/content/10.1101/2024.02.13.579526v1)
+My research investigates how the auditory system represents and interprets complex sounds, with a particular focus on naturalistic listening. I combine psychophysical modeling, machine learning, generative acoustic models and animal electrophysiology to understand the mechanisms underlying sound perception.
+
+My work spans several interconnected areas. My early work I investigated speech perception in noise and misophonia, using psychophysical models and machine learning to understand how listeners perceive and respond to sounds in challenging and personally meaningful contexts. I also develop generative models for biologically inspired sound perturbations, creating computational tools to manipulate acoustic signals in ways that probe the representations used by the auditory system. Finally, I investigate the perception and neural coding of temporal fine structure, combining generative acoustic models with paired behavioral and neural experiments to understand how fine-grained temporal information is represented and used (or not used!) during auditory perception.
+
+Across these projects, my goal is to develop computational and experimental approaches that bridge acoustic signals, neural representations, and perceptual experience with intentionally designed machine learning and signal processing tools.
 
 Machine and Human Audition
 ======
@@ -23,13 +27,19 @@ I am also interested in applying machine learning methods, and optimization tool
 
 Engineering Education
 ======
-In tandem with my research, I am very interested in STEM Education, and diversity, equity and inclusion initiatives within the field. I work with the [Experiential Education Office ](https://undergrad.engr.uconn.edu/experiential-education-staff/) to develop curriculum and mentor first-year engineering students alongside [Nick Delaney](https://undergrad.engr.uconn.edu/advising-staff/nick-delaney-ece-advisor/), [Monica Bullock](https://undergrad.engr.uconn.edu/monica-bullock-program-administrator/) and [Jenn Pascal](https://chemical-biomolecular.engr.uconn.edu/people/faculty/pascal-jennifer/) in the [Engineering House Learning Community](https://undergrad.engr.uconn.edu/current-students-activities-organizations/engineering-living-learning-communities/engineering-house-learning-community/) a collaborative program between the [Office of First Year Programs](https://fyp.uconn.edu/) and the [UConn College of Engineering](https://engineering.uconn.edu/). Here we integrate community building and academic support to guide students along their path in engineering. However, we make a goal to integrate service-learning initiatives into the curriculum to show students the impact their education can have on their community, to promote narratives of DEI and outreach in engineering early on.
+In tandem with my research, I am very interested in STEM Education, and diversity, equity and inclusion initiatives within the field. I spent 6 years working with the [Experiential Education Office ](https://undergrad.engr.uconn.edu/experiential-education-staff/) to develop curriculum and mentor first-year engineering students alongside [Nick Delaney](https://undergrad.engr.uconn.edu/advising-staff/nick-delaney-ece-advisor/), [Monica Bullock](https://undergrad.engr.uconn.edu/monica-bullock-program-administrator/) and [Jenn Pascal](https://chemical-biomolecular.engr.uconn.edu/people/faculty/pascal-jennifer/) in the [Engineering House Learning Community](https://undergrad.engr.uconn.edu/current-students-activities-organizations/engineering-living-learning-communities/engineering-house-learning-community/) a collaborative program between the [Office of First Year Programs](https://fyp.uconn.edu/) and the [UConn College of Engineering](https://engineering.uconn.edu/). Here we integrate community building and academic support to guide students along their path in engineering. However, we make a goal to integrate service-learning initiatives into the curriculum to show students the impact their education can have on their community, to promote narratives of DEI and outreach in engineering early on.
 
 Publications
 ======
-### **Low-dimensional interference of mid-level sound statistics predicts human speech recognition in natural environmental noise (in Review, 2024)**
+### **Interference of mid-level sound statistics predicts human speech recognition in natural environmental noise Journal of Neuroscience 2025**
 ### Alex C. Clonan, Xiu Zhai, Ian H. Stevenson, Monty A. Escabí
-I am really excited to share our current preprint, you can currently see it posted on [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.579526v1). Here we assess the influence of bottom-up acoustic features of the foreground and background by adversarially positioning them against one another. This feature representation is inspired by the computations in the auditory midbrain (IC). Our approach allows us to investigate perceptual transfer functions indicative of the cues we rely on for specific acoustic tasks. 
+
+### **Identifying the acoustic fingerprints of trigger sounds and predicting discomfort for misophonia Hearing Research 2026**
+### Alex C. Clonan, Ian H. Stevenson, Monty A. Escabí
+
+### **Modulation statistics allow robust prediction of speech recognition accuracy across many words, voices, and natural background sounds (In Review)**
+### Alex C. Clonan, Ian H. Stevenson, Monty A. Escabí
+
 
 
 
