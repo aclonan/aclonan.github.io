@@ -13,12 +13,14 @@ Here we use time averaged spectrotemporal modulations wiener filters, matched to
 
 <div>
 Clean Speech Example 1
-<img src="/files/Clean_1.png" alt="My Project Diagram" width="300">
+<br>
+<img src="/files/Clean_2.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
 Clean Speech Example 2
-<img src="/files/Clean_2.png" alt="My Project Diagram" width="300">
+<br>
+<img src="/files/Clean_1.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
@@ -45,12 +47,14 @@ Clean Speech Example 2
 
 <div>
 Mixture Example 1
-<img src="/files/Mix_1.png" alt="My Project Diagram" width="300">
+<br>
+<img src="/files/Mix_2.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
 Mixture Example 2
-<img src="/files/Mix_2.png" alt="My Project Diagram" width="300">
+<br>
+<img src="/files/Mix_1.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
@@ -75,12 +79,14 @@ Mixture Example 2
 
 <div>
 Denoised Speech Example 1
-<img src="/files/Extract_1.png" alt="My Project Diagram" width="300">
+<br>
+<img src="/files/Extract_2.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
 Denoised Speech Example 2
-<img src="/files/Extract_2.png" alt="My Project Diagram" width="300">
+<br>
+<img src="/files/Extract_1.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
