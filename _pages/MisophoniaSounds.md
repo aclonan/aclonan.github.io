@@ -5,20 +5,20 @@ permalink: /MisophoniaSounds/
 author_profile: true
 ---
 
-Misophonia Sound Filtering
+Statistical Sound Filtering
 ======
 Here we use time averaged spectrotemporal modulations wiener filters, matched to biologically inspired filterbanks to remove interfering background sounds from natural speech. The intention is to use this algorithm to remove natural misophonic triggers in real enviornments. 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
 <div>
-Waveform 1
-
+Clean Speech Example 1
+<img src="/files/Clean_1.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
-Waveform 2
-
+Clean Speech Example 2
+<img src="/files/Clean_2.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
@@ -44,11 +44,13 @@ Waveform 2
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
 <div>
-Waveform 3
+Mixture Example 1
+<img src="/files/Mix_1.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
-Waveform 4
+Mixture Example 2
+<img src="/files/Mix_2.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
@@ -72,11 +74,13 @@ Waveform 4
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
 <div>
-Waveform 5
+Denoised Speech Example 1
+<img src="/files/Extract_1.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
-Waveform 6
+Denoised Speech Example 2
+<img src="/files/Extract_2.png" alt="My Project Diagram" width="300">
 </div>
 
 <div>
